@@ -1,0 +1,208 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #1601fc !important;
+}
+
+body .container .r {
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+body .container .r .col-3 {
+  background-color: #4938fe;
+  padding: 38px;
+  width: 300px;
+  position: fixed !important;
+}
+
+body .container .r .col-3 .r1 img {
+  width: 200px;
+  height: 170px;
+  border-radius: 100%;
+}
+
+body .container .r .col-3 .r2 h3 {
+  color: white;
+}
+
+body .container .r .col-3 .r3 p {
+  color: #dadada;
+}
+
+body .container .r .col-3 .r4 i {
+  color: white;
+}
+
+body .container .r .col-3 .r10 i {
+  color: #dadada;
+  font-size: 13px;
+}
+
+body .container .r .col-3 .r10 p {
+  color: #dadada;
+  font-size: 12px;
+  padding-top: 4px;
+}
+
+body .container .r .col-3 .r5 {
+  color: white;
+}
+
+body .container .r .col-3 .r6 {
+  color: white;
+}
+
+body .container .r .col-3 .r7 {
+  color: white;
+}
+
+body .container .r .col-3 .r8 {
+  color: white;
+}
+
+body .container .r .col-3 .r9 {
+  color: white;
+}
+
+body .container .r .col-9 {
+  margin-left: 300px;
+  padding: 60px;
+  background-color: white;
+}
+
+body .container .r .col-9 #p {
+  color: #c4c4c4;
+}
+
+body .container .r .col-9 .rr1 h3 {
+  color: #dd3f89;
+}
+
+body .container .r .col-9 .rr1 button {
+  background-color: #1d00f2;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+}
+
+body .container .r .col-9 .rr7 .htm .grey {
+  background-color: #c9c9c9;
+  height: 5px;
+  width: 280px;
+}
+
+body .container .r .col-9 .rr7 .htm .grey .red {
+  background-color: #ca3b79;
+  height: 5px;
+  width: 250px;
+}
+
+body .container .r .col-9 .rr7 .css .grey {
+  background-color: #c9c9c9;
+  height: 5px;
+  width: 280px;
+}
+
+body .container .r .col-9 .rr7 .css .grey .red {
+  background-color: #ca3b79;
+  height: 5px;
+  width: 230px;
+}
+
+body .container .r .col-9 .rr7 .p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .container .r .col-9 .rr7 .p b {
+  color: grey;
+  margin-left: 210px;
+}
+
+body .container .r .col-9 .rr8 .scss .grey {
+  background-color: #c9c9c9;
+  height: 5px;
+  width: 280px;
+}
+
+body .container .r .col-9 .rr8 .scss .grey .red {
+  background-color: #ca3b79;
+  height: 5px;
+  width: 280px;
+}
+
+body .container .r .col-9 .rr8 .scratch .grey {
+  background-color: #c9c9c9;
+  height: 5px;
+  width: 280px;
+}
+
+body .container .r .col-9 .rr8 .scratch .grey .red {
+  background-color: #ca3b79;
+  height: 5px;
+  width: 275px;
+}
+
+body .container .r .col-9 .rr8 .p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .container .r .col-9 .rr8 .p b {
+  color: grey;
+  margin-left: 210px;
+}
+
+body .container .r .col-9 .rr9 h4 {
+  color: #dd3f89;
+}
+
+body .container .r .col-9 .rr13 h4 {
+  color: #dd3f89;
+}
+
+body .container .r .col-9 .rr17 h4 {
+  color: #dd3f89;
+}
+
+body .container .r .col-9 .rr18 input {
+  border: none;
+  border-bottom: solid 1px;
+  padding: 10px;
+  width: 300px;
+  outline: none;
+}
+
+body .container .r .col-9 .rr19 input {
+  border: none;
+  border-bottom: solid 1px;
+  padding: 10px;
+  width: 300px;
+  outline: none;
+}
+
+body .container .r .col-9 .rr20 textarea {
+  width: 97%;
+  height: 150px;
+  border: none;
+  border-bottom: solid 1px;
+  padding: 10px;
+  outline: none;
+}
+
+body .container .r .col-9 .rr21 button {
+  background-color: #4938fe;
+  color: white;
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+}
+/*# sourceMappingURL=me.css.map */
